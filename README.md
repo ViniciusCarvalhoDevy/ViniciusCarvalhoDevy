@@ -13,7 +13,7 @@
   <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
 </div>
   
-  ##
+  
  
 <div> 
   
